@@ -150,3 +150,4 @@ while game_on:
 
         display.update()
         clock.tick(60)
+print('')
